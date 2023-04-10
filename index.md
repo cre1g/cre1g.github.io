@@ -12,7 +12,7 @@ Programming Projects
 ![Hangman](images/Hangman.PNG)
 
 ---
-### [Right Triangle | CSCI 301](project2)
+### [Right Triangle | CSCI 301](Project2)
 
 ![Triangle](images/Rt.PNG)
 
