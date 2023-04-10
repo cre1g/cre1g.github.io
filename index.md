@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Hangman Game | CSCI 235](project1)
 
-![Hangman](images/hangman.png)
+![Hangman](images/Hangman.PNG)
 
 ---
 ### [Project 2 Title | CSCI 315](project2)
