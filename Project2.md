@@ -23,7 +23,7 @@ python RightTriangle.py
 
 ## UI Design
 
-When the program is run the user is prompted to provide 2 inputs (Fig 1.). After the 2 inputs are given, the program processes the inputs, and outputs the hypotonuse and area of the right triangle (Fig 2.).
+When the program is run the user is prompted to provide Side A of the triangle. (Fig 1.). The user will then input Side B. After the 2 inputs are given, the program processes the inputs, and outputs the hypotonuse and area of the right triangle (Fig 2.).
 
 ![screenshot](/images/Rt1.PNG)  
 Fig 1. The launch screen
