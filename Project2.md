@@ -3,41 +3,35 @@
 Hangman Game
 ===============
 
--   **Class: CSCI 235** 
+-   **Class: CSCI 301** 
 -   **Grade: A** 
--   **Language(s): C++** 
--   **Source Code Repository:** [Source Code](https://github.com/cre1g/Project1)  
+-   **Language(s): Python** 
+-   **Source Code Repository:** [Source Code](https://github.com/cre1g/Project2)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This program lets the user play a solo game of hangman from a dictionary file. The game has three levels of difficulty the user can select from.
+This program takes two inputs from the user to use as sides of a right triangle. The program then calculates the hypotonuse and area of the triangle using mathematiccal formulas.
 
-## How to compile and run the program
+## How to run the program
 
-How to compile and run the project.
+How to run the project.
 
 ```bash
-g++ -o hangman.exe hangman.cpp
-./hangman.exe
+python RightTriangle.py
 ```
 
 ## UI Design
 
-When the program is run, the user will see a select difficulty screen with 3 options (Fig 1.). After the User selects the difficulty, the game of hangman will be generated and the user will be prompted to make a guess (Fig 2.). Once the user has made their guess, the program will interpret their guess and show them whether they were correct or incorrect (Fig 3.). After the user has either run out of guesses or solved the phrase, the program will notify them on whether they won or lost (Fig 4.).
+When the program is run the user is prompted to provide 2 inputs (Fig 1.). After the 2 inputs are given, the program processes the inputs, and outputs the hypotonuse and area of the right triangle (Fig 2.).
 
-![screenshot](/images/hangman1.PNG)  
+![screenshot](/images/Rt1.PNG)  
 Fig 1. The launch screen
 
-![screenshot](/images/hangman2.PNG)  
-Fig 2. After difficulty is selected
+![screenshot](/images/Rt2.PNG)  
+Fig 2. After inputs are given
 
-![screenshot](/images/hangman3.PNG)  
-Fig 3. Correct or Incorrect guess
 
-![screenshot](/images/hangman4.PNG)  
-Fig 4. Game ends
-
-For more details see [Source Code](https://github.com/cre1g/Project1).
+For more details see [Source Code](https://github.com/cre1g/Projec2).
 
 [Back to Portfolio](./)
