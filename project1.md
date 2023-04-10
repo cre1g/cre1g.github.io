@@ -26,16 +26,16 @@ g++ -o hangman.exe hangman.cpp
 
 When the program is run, the user will see a select difficulty screen with 3 options (Fig 1.). After the User selects the difficulty, the game of hangman will be generated and the user will be prompted to make a guess (Fig 2.). Once the user has made their guess, the program will interpret their guess and show them whether they were correct or incorrect (Fig 3.). After the user has either run out of guesses or solved the phrase, the program will notify them on whether they won or lost (Fig 4.).
 
-![screenshot](/images/hangman1.png)  
+![screenshot](/images/hangman1.PNG)  
 Fig 1. The launch screen
 
-![screenshot](/images/hangman2.png)  
+![screenshot](/images/hangman2.PNG)  
 Fig 2. After difficulty is selected
 
-![screenshot](/images/hangman3.png)  
+![screenshot](/images/hangman3.PNG)  
 Fig 3. Correct or Incorrect guess
 
-![screenshot](/images/hangman4.png)  
+![screenshot](/images/hangman4.PNG)  
 Fig 4. Game ends
 
 For more details see [Source Code](https://github.com/cre1g/Project1).
