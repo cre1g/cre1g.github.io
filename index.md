@@ -12,9 +12,9 @@ Programming Projects
 ![Hangman](images/Hangman.PNG)
 
 ---
-### [Project 2 Title | CSCI 315](project2)
+### [Right Triangle | CSCI 301](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Triangle](images/Rt.PNG)
 
 
 Ethics Papers
