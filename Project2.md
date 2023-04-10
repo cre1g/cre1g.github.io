@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Hangman Game
+Right Triangle Calculator
 ===============
 
 -   **Class: CSCI 301** 
