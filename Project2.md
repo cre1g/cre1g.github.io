@@ -32,6 +32,6 @@ Fig 1. The launch screen
 Fig 2. After inputs are given
 
 
-For more details see [Source Code](https://github.com/cre1g/Projec2).
+For more details see [Source Code](https://github.com/cre1g/Project2).
 
 [Back to Portfolio](./)
